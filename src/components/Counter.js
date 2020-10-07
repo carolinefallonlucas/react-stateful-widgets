@@ -54,7 +54,7 @@ export default function Counter()
 {
   /* STEP 1 */
   const [count, setCount] = useState(0);
-  const [isEven, setEven] = useState('even')
+
 
 
   const increment = () =>
